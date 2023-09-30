@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyGithubApp</string>
+    <string name="name_app">GithubUser Finder</string>
+    <string name="hint_value">Cari...</string>
+    <string name="not_found">Hasil Tidak Ditemukan</string>
+    <string name="nama_repo">Nama</string>
+    <string name="id_repo">ID</string>
+    <string name="link_repo">link repository</string>
+    <string name="repo">REPOSITORY</string>
+    <string name="setting">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite">Favorite User</string>
+    <string name="link_profile">TAUTAN PROFILE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
